@@ -1,0 +1,3 @@
+[submodule "libs/casync"]
+	path = libs/casync
+	url = http://github.com/systemd/casync.git
